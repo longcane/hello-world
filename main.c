@@ -10,10 +10,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("\nHello, World!");
-    printf("\nHello, World!");
-    printf("\nHello, World!");
-    printf("\nHello, World!");
     printf("\nHello, World!\n");
 
     return 0;
